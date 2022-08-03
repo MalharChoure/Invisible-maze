@@ -11,7 +11,8 @@ Instructions of the game:-
 * They are also revealed when the player collides with them, this does however causes the player to looses a life and be reset to start.
 * Reach the hole to go to the next level.
 
-![Screenshot (1430)](https://user-images.githubusercontent.com/90690107/182508122-d154a0ce-ccff-41f2-840c-90a066eaeaf9.png)
+
+![Screenshot (1430)](https://user-images.githubusercontent.com/90690107/182508388-4f298218-62cd-4203-b32d-c371f757f286.png)
 
 
 ![Screenshot (1431)](https://user-images.githubusercontent.com/90690107/182508318-e43b663d-813c-484c-83fc-d3dd0bd0708e.png)
